@@ -7,4 +7,4 @@
 
 ## Imagem do Projeto
 <hr>
-<img src""
+<img src"https://github.com/victorsantanna/Clone-Interface-NETFLIX/blob/main/Captura%20da%20Web.jpeg"/>
