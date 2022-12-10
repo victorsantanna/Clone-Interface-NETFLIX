@@ -2,4 +2,4 @@
 
 <hr>
 
-### Recriando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. 
+### Recriando a interface do site de streaming Netflix,  utilizando tecnologias  como HTML5, CSS3 e JavaScript. 
